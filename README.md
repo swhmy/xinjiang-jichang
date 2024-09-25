@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="J61CtdJvmAThyFMTs1D1q02ZzbJTAxqD2QHF9gw4iS8" />
+<meta name="google-site-verification" content="inS7HN5KsfPUmALIf3iJfMz20qWm7G9cgtmzOd21o18" />
 
 
 # 新疆地区可用梯子推荐列表
