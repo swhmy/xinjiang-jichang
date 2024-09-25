@@ -36,3 +36,5 @@ Vmess直连，节点稳定，截止2024年8月全节点面向新疆地区可用�
 
 ## 相关推荐
 ![2024跑路机场名单](https://github.com/swhmy/jichang-runaway-2024)
+
+<meta name="google-site-verification" content="J61CtdJvmAThyFMTs1D1q02ZzbJTAxqD2QHF9gw4iS8" />
