@@ -1,6 +1,3 @@
-<meta name="google-site-verification" content="inS7HN5KsfPUmALIf3iJfMz20qWm7G9cgtmzOd21o18" />
-
-
 # 新疆地区可用梯子推荐列表
 
 由于GFW反向墙的原因，部分在国内其他地方可用的机场和VPN服务在该地区完全无法使用，即使是专线连接很多时候也效果不佳。相反，一些直连的机场或线路反而不受这些限制的影响。<br>
