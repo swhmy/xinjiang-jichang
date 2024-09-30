@@ -34,6 +34,13 @@ Vmess直连，节点稳定，截止2024年8月全节点面向新疆地区可用�
 3. 测速
 网上的测速数据仅供参考，真正的判断应基于实际使用体验。不要过于关注速度峰值，意义不大。通常来说，如果速度能维持在 50Mbps 以上，且基本没有断流现象，那这个机场的服务体验就已经算是非常出色了。
 
+## 客户端下载地址
+
+* Windows: [Clash for windows](https://oss.qwertyuiopzxcvbnm.club/client-download/Clashwin1.exe)
+*  macOS:[clashX](https://doget-api.oopscloud.xyz/api/download?token=eyJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vVGFpU2hhbjk5ODk4L2Rvd25sb2FkL3JlbGVhc2VzL2Rvd25sb2FkL2NsaWVudC9DbGFzaFguZG1nIn0.RalaxbyeIYxkb595dACO2lj9r9AT11LKbjDYReJye6A)
+*  安卓：[clash for android](https://oss.qwertyuiopzxcvbnm.club/client-download/clash.apk)
+*  iOS: [Shadowsocks](https://shadowsockshelp.github.io/Shadowsocks/appleid.html)
+
 ## 相关推荐
 ![2024跑路机场名单](https://github.com/swhmy/jichang-runaway-2024)
 
