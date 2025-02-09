@@ -1,4 +1,4 @@
-# 2024新疆地区可用梯子推荐列表
+# 2025新疆地区可用梯子推荐列表
 
 由于GFW反向墙的原因，部分在国内其他地方可用的机场和VPN服务在该地区完全无法使用，即使是专线连接很多时候也效果不佳。相反，一些直连的机场或线路反而不受这些限制的影响。<br>
 
@@ -44,6 +44,6 @@ Vmess直连，节点稳定，截止2024年8月全节点面向新疆地区可用�
 *  iOS: [Shadowsocks](https://shadowsockshelp.github.io/Shadowsocks/appleid.html)
 
 ## 相关推荐
-![2024跑路机场名单](https://github.com/swhmy/jichang-runaway-2024)
+[2024跑路机场名单](https://github.com/swhmy/jichang-runaway-2024)
 
 
