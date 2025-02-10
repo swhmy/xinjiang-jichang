@@ -44,6 +44,7 @@ Vmess直连，节点稳定，截止2024年8月全节点面向新疆地区可用�
 *  iOS: [Shadowsocks](https://shadowsockshelp.github.io/Shadowsocks/appleid.html)
 
 ## 相关推荐
-[2024跑路机场名单](https://github.com/swhmy/jichang-runaway-2024)
+* [2025年机场推荐](https://swhmy.com/)
+* [机场跑路黑名单](https://swhmy.com/blog/paolu)
 
 
