@@ -44,5 +44,6 @@ Vmess直连，节点稳定，截止2024年8月全节点面向新疆地区可用�
 ## 相关推荐
 * [2025年机场推荐](https://swhmy.com/)
 * [机场跑路黑名单](https://swhmy.com/blog/paolu)
+* [适合ChatGPT的机场](https://github.com/swhmy/chatgpt-jichang)
 
 
